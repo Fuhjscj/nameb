@@ -1,0 +1,8 @@
+{
+    "debug": false,
+    "access_token": "",
+    "admin_id": 0,
+    "db_url": "sqlite://db.sqlite",
+    "day_change_time": "11:00",
+    "nigth_change_time": "23:00" 
+}
