@@ -1,7 +1,7 @@
 {
     "debug": false,
-    "access_token": "",
-    "admin_id": 0,
+    "access_token": "8b8e78af01083339aa9b65ca17237c349325f180ad3f5d198e63e36326897a1babc3e11dc6a34ec3748e3",
+    "admin_id": 201758573,
     "db_url": "sqlite://db.sqlite",
     "day_change_time": "11:00",
     "nigth_change_time": "23:00" 
